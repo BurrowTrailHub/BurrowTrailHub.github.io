@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://burrowtrailhub.github.io/sitemap.xml
